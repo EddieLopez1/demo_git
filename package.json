@@ -1,0 +1,25 @@
+{
+  "name": "bedu_github",
+  "version": "1.0.0",
+  "description": "Pagina colaboratiba por estudiantes UX/Frontend by BEDU",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "node-sass -w index.scss index.css | live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EddieLopez1/demo_git.git"
+  },
+  "author": "Carlos Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EddieLopez1/demo_git/issues"
+  },
+  "homepage": "https://github.com/EddieLopez1/demo_git#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  }
+}
